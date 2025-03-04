@@ -15,7 +15,7 @@ Hola, soy Eduardo Uriel Chavez Diaz. Estoy estudiando Ingeniería en Desarrollo 
 ### Contacto
 
 - **GitHub**: [sullentx](https://github.com/sullentx)
-- **Correo Electrónico**: tucorreo@example.com (reemplaza esto con tu correo real)
+- **Correo Electrónico**: eduardochavez019@gmail.com
 
 ### Estadísticas de GitHub
 
