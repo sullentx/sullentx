@@ -2,11 +2,7 @@
 
 ### Ingeniero en Desarrollo de Software
 
-Hola, soy Eduardo Uriel Chavez Diaz. Estoy estudiando Ingeniería en Desarrollo de Software y he trabajado en varios proyectos multidisciplinarios e integradores.
-
-### Proyectos Destacados
-
-- **TUXBIN**: Un proyecto sobre rutas y lugares donde se debe tirar basura en Tuxtla Gutiérrez.
+Hola, soy Eduardo Uriel Chavez Diaz. Estoy estudiando Ingeniería en Desarrollo de Software.
 
 ### Habilidades
 
